@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Amin 👋
 
-<!--
-**Aminbasirzad/Aminbasirzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Junior Django Developer
 
-Here are some ideas to get you started:
+I'm a Python and Django developer interested in building web applications and e-commerce projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+* Python
+* Django
+* PostgreSQL
+* Django REST Framework
+* Git
+* GitHub
+
+### 🚀 Projects
+
+🛒 Shop — Django E-commerce Website
+A complete e-commerce project with authentication, CAPTCHA, shopping cart, checkout, order management, and mock payment.
+
+💼 My Portfolio — Personal Portfolio Website
+
+🧮 BMI Calculator — BMI calculation web application
+
+### 📚 Currently Learning
+
+* Advanced Django
+* Backend Development
+* REST APIs
+
+### 📫 Contact
+
+GitHub: https://github.com/Aminbasirzad
