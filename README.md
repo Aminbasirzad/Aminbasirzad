@@ -12,6 +12,7 @@ I'm a Python and Django developer interested in building web applications and e-
 * Django REST Framework
 * Git
 * GitHub
+* MongoDB
 
 ### 🚀 Projects
 
