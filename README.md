@@ -47,4 +47,4 @@ A web application for calculating Body Mass Index (BMI).
 🎯 Career Goals
 I'm focused on improving my backend development skills, building real-world projects, and growing as a professional Python developer.
 📫 Contact
-- GitHub: @Aminbasirzad
+- **GitHub:** [@Aminbasirzad](https://github.com/Aminbasirzad)
