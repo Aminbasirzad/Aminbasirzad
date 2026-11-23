@@ -1,6 +1,6 @@
 # Hi, I'm Amin 👋
 
-### 🐍 Junior Django Developer
+### 🐍 Python Backend Developer | Django & DRF
 
 I'm a Python and Django developer interested in building web applications and e-commerce projects.
 
