@@ -13,6 +13,7 @@ I'm a Python and Django developer interested in building web applications and e-
 * Git
 * GitHub
 * MongoDB
+* Docker
 
 ### 🚀 Projects
 
